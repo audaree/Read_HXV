@@ -1,0 +1,3 @@
+# Exclude following files and directories
+Plots/
+.vscode/
